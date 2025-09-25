@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="96">
+    <author>ue3apb</author>
+    <version>1.0.0</version>
+
+    <title>
+        <en>Not Today</en>
+        <de>Nicht Heute</de>
+        <fr>Pas Aujourd'hui</fr>
+        <ru>Не Сегодня</ru>
+        <uk>Не сьогодні</uk>
+        <pt>Hoje Não</pt>
+    </title>
+
+    <description>
+        <en>Hides the annoying purchase window in Farming Simulator.</en>
+        <de>Blendet das nervige Kauf-Fenster im Farming Simulator aus.</de>
+        <fr>Masque la fenêtre d'achat ennuyeuse dans Farming Simulator.</fr>
+        <ru>Скрывает надоедливое окно покупки в Farming Simulator.</ru>
+        <uk>Приховує набридливе вікно покупки у Farming Simulator.</uk>
+        <pt>Oculta a janela irritante de compra no Farming Simulator.</pt>
+    </description>
+
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="hideWindowFromTheHell.lua" />
+    </extraSourceFiles>
+	
+	<license>
+		<en>This mod is released under the MIT License. Free to use, modify and share.</en>
+		<de>Dieses Mod wird unter der MIT-Lizenz veröffentlicht. Frei verwendbar, veränderbar und teilbar.</de>
+		<fr>Ce mod est publié sous licence MIT. Libre d'utilisation, de modification et de partage.</fr>
+		<ru>Этот мод распространяется по лицензии MIT. Свободно используйте, изменяйте и распространяйте.</ru>
+		<uk>Цей мод поширюється за ліцензією MIT. Вільно використовуйте, змінюйте та розповсюджуйте.</uk>
+		<pt>Este mod é lançado sob a licença MIT. Livre para usar, modificar e compartilhar.</pt>
+	</license>
+
+</modDesc>
