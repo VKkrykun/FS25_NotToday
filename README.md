@@ -16,9 +16,9 @@
 
 ## 📂 File Structure
 /NotToday
-├─ icon.png
-├─ hideWindowFromTheHell.lua
-└─ modDesc.xml
+- icon.png
+- hideWindowFromTheHell.lua
+- modDesc.xml
  
 ## 🧑‍💻 Author
 - ue3apb  
