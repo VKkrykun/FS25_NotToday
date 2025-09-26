@@ -21,12 +21,16 @@ function FilteredInfoDialog.show(text, callback, target, dialogType, okText, but
 end
 
 function FilteredInfoDialog.isBlocked(text)
-    local blockedPhrases = {
-        "Get the full version of Farming Simulator here."
+    local patterns = {
+        "farming",
+        "sim.*",
+        "Farming Sim.*",
     }
 
-    for _, phrase in ipairs(blockedPhrases) do
-        if string.find(text, phrase, 1, true) then
+     local lowerText = string.lower(text)
+
+    for _, pattern in ipairs(patterns) do
+        if string.find(lowerText, string.lower(pattern)) then
             return true
         end
     end
