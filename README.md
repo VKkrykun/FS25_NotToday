@@ -8,7 +8,7 @@
 - 🛠 Lightweight and compatible with other mods
 
 ## 📥 Installation
-1. Download the latest release from the [Releases](../../releases) section.
+1. Download the latest release from the [FS25_NotToday_v1_1.zip](https://sharemods.com/piztmuajflro/FS25_NotToday_v1_1.zip.html) section.
 2. Place the `.zip` archive into your mods folder:
    - **Windows:** `Documents/My Games/FarmingSimulatorXX/mods`
    - **Mac:** `~/Library/Application Support/FarmingSimulatorXX/mods`
